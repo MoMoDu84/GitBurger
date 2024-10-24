@@ -4,10 +4,10 @@ Construisez votre propre hamburger en utilisant des fichiers texte pour chaque c
 
 ## Ingrédients disponibles
 
-5. **Pain haut**: Pain brioché avec des graines de sésame sur le dessus.
-7. **Salade**:Salade croquante et fraîche.
-1. **Tomate**:Tranches de tomates bien mûre
+1. **Pain haut**: Pain brioché avec des graines de sésame sur le dessus.
+2. **Salade**:Salade croquante et fraîche.
+3. **Tomate**:Tranches de tomates bien mûre
 4. **Steak**:Steak de boeuf grillé à la perfection.
-3. **Fromage**:Tranche de cheddar fondant.
+5. **Fromage**:Tranche de cheddar fondant.
 6. **Bacon**:Tranche de bacon croustillante.
-2. **Pain bas**:Pain brioché du dessous.
+7. **Pain bas**:Pain brioché du dessous.
